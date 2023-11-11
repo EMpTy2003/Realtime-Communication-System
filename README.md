@@ -5,12 +5,12 @@
 
 <hr>
 
-## 👩‍💻 TEAM ID : PNT2022TMID22290
+## 👩‍💻 Batch No : 08
 #### TEAM DETAILS :
-**TEAM LEADER** &nbsp;&nbsp;- _Devanand M_<br>
-**TEAM MEMBER** - _Dhinesh M_<br>
-**TEAM MEMBER** - _Komesh S_<br>
-**TEAM MEMBER** - _Veluru Balaji_<br>
+**TEAM Guide** &nbsp;&nbsp;- _Vinitha Baby_<br>
+**TEAM MEMBER** - _Mohamed Thoufeek MJ_<br>
+**TEAM MEMBER** - _Sakthi Swetha G_<br>
+**TEAM MEMBER** - _Thanushri S_<br>
 
 <hr>
 
@@ -35,15 +35,6 @@ pip install -r requirements.txt
 ```ps
 python app.py
 ```
-
-### 📤 OUTPUT PREVIEW :
-
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/90745606/202739626-e46a25ea-a6d3-44d0-933e-6429f41413d1.gif)
-<br>
-
-##### DEMO-SITE : <a href="https://deva0813.github.io/rtcsys/">Link</a>&nbsp;(This is just a demo site and the video translate is an illustration of actual convertion and other features works properly.)
-
-#### Demo Video : <a href="https://youtu.be/J19nWqDMQr8">Link</a>
 
 <hr>
 

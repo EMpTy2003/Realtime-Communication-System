@@ -61,8 +61,3 @@ def get_frame():
         return None
 
 
-'''
-Copyrigths:
-Devanand
-Dhinesh
-'''    

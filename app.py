@@ -9,7 +9,7 @@ global_frame = None
 
 app=Flask(__name__)
 
-        
+       
 @app.route("/label")  #for label
 def label_text():
     index=opencv.get_frame()[1]
@@ -110,10 +110,10 @@ def getvalue():
 
 
 # Copyrigths:
-# Devanand
-# Dhinesh
+# Thoufeek
+# Sakthi
+# Thanushri
 webbrowser.open("http://127.0.0.1:5000/")
-
 
 if __name__=="__main__":
     app.run(host='0.0.0.0', threaded=True ,port=5000,debug=False)
